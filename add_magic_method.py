@@ -66,4 +66,5 @@ for i in range(5):
 print("The value of o is", o)
 
 total = s + o
-print("The value of the union is", total)
+
+print("The value of the addition is", total)
